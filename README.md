@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Allan Rodrigues.
 
 - 🌱 Cursando Ciência da Computação - UTFPR
-- 🌱 Estudando Java e JavaScript
+- 🌱 Estudando React e NodeJS
 - 😄 Pronouns: ele/dele
 
 <div style="display: inline_block align: center">
